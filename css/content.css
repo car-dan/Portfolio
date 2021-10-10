@@ -11,33 +11,24 @@
     width: 80%;
     display: flex;
     justify-content: space-between;
+    background-color: #BCA3BF;
     
 }
 
-.project1,
-.project3 {
-    background-color: #1C2126;
+.project a {
+    color: black;
 }
+
 
 
 .project2 {
     flex-direction: row-reverse;
-    background-color: #A6A6A6;
 }
 
 .link {
     width: 50%;
     padding-right: 20px;
     
-}
-
-ul li{
-    list-style-position: inside;
-}
-
-.project1 ul li,
-.project3 ul li {
-    color: #D9D9D9;
 }
 
 

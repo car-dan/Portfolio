@@ -1,4 +1,5 @@
 @import url("content.css");
+@import url("project.css");
 
 
 * {
@@ -6,8 +7,7 @@
    margin: 0;
    box-sizing: border-box; 
    font-family: 'Roboto', sans-serif;
-   /* background-color: #D9D9D9; */
-   color: #1C2126;
+   color: whitesmoke;
 }
 
 header {
@@ -24,17 +24,19 @@ nav {
 
 nav,
 nav a {
-    background-color: #1C2126;
+    background-color: #0C0C0D;
 }
 
 a {
     text-decoration: none;
-    color: #D9D9D9;
+    color: whitesmoke;
+    font-size: 0.5rem;
     
 }
 
 h1 {
     font-size: 1.2rem;
+    text-align: center;
 }
 
 h2 {
@@ -42,8 +44,7 @@ h2 {
 }
 
 main {
-    padding: 20px;
-    background-color: #D9D9D9;
-
+    padding-top: 20px;
+    background-color: #8183A6;
 }
 
