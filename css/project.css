@@ -2,7 +2,8 @@
     margin: 10px auto;
     padding: 0px 0px;
     width: 80%;
-    background-color: #BCA3BF;
+    background-color: whitesmoke;
+    border-radius: 5px;
     
 }
 
@@ -20,6 +21,7 @@
     width: 100%;
     height: 200px;
     object-fit: cover;
+    border-radius: 5px;
 }
 
 .changes {
@@ -31,4 +33,5 @@
 li{
     list-style-position: inside;
     list-style-type: square;
+    padding-bottom: 30px;
 }

@@ -7,7 +7,7 @@
    margin: 0;
    box-sizing: border-box; 
    font-family: 'Roboto', sans-serif;
-   color: whitesmoke;
+   color: black;
 }
 
 header {
@@ -24,12 +24,16 @@ nav {
 
 nav,
 nav a {
-    background-color: #0C0C0D;
+    background-color: #656A73;
+}
+
+hr {
+    border-top: 1px solid whitesmoke;
 }
 
 a {
     text-decoration: none;
-    color: whitesmoke;
+    color: black;
     font-size: 0.9rem;
     
 }
@@ -45,6 +49,6 @@ h2 {
 
 main {
     padding-top: 20px;
-    background-color: #8183A6;
+    background-color: #656A73;
 }
 

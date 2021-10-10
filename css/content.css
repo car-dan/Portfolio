@@ -9,9 +9,10 @@
     margin: 10px auto;
     padding: 20px 10px;
     width: 80%;
+    border-radius: 2px;
     display: flex;
     justify-content: space-between;
-    background-color: #BCA3BF;
+    background-color: whitesmoke;
     
 }
 
@@ -41,8 +42,10 @@
 
 .changes {
     width: 50%;
+    text-align: center;
     
 }
+
 
 
 
